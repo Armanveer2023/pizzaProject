@@ -1,0 +1,25 @@
+1------------------------------------
+
+npx create-react-app frontend 
+
+now go inside frontend folder and do npm start 
+now remove unneccassary code remove import web vitals and all its code from index.js 
+
+remove all app.css code 
+remove all code from div in app.js delete logo remove log import code
+
+
+2--------------------------------------------------------------------------
+
+now open a new terminal do 
+cd backend 
+and there do npm init -y 
+
+now install all these dependencies 
+
+npm i express jsonwebtoken bcrypt body-parser dotenv mongoose joi cors
+
+
+---------------------------------------------------------------------------
+
+npm i react-router-dom react-toastify
